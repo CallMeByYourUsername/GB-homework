@@ -9,9 +9,8 @@ You may create lists with numbers like this:
 2. list item 2
 
 You may also make lists without numbers like this: 
-* item1 
-* item 2
-
+* item one 
+* item two
 ## Images
  In order to insert an image you may use these symbols: _______
   ![This is Konokha](konokha.jpg)
