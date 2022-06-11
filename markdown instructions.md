@@ -13,7 +13,7 @@ You may also make lists without numbers like this:
 * item 2
 
 ## Images
- In order to insert an image you may use ![]()
+ In order to insert an image you may use these symbols: _______
   ![This is Konokha](konokha.jpg)
 ## Links
 ## Tables
