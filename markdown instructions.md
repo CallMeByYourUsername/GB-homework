@@ -14,6 +14,8 @@ You may also make lists without numbers like this:
 ## Images
  In order to insert an image you may use these symbols: _______
   ![This is Konokha](konokha.jpg)
+
+  I added lines here
 ## Links
 ## Tables
 ## Quatations
