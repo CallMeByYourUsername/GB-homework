@@ -1,18 +1,19 @@
 # Waffles
 ## Ingredients 
 
-2 cups all-purpose flour
+* 2 cups all-purpose flour
 
-1 teaspoon salt
+* 1 teaspoon salt
 
-4 teaspoons baking powder
+* 4 teaspoons baking powder
 
-2 tablespoons white sugar
+* 2 tablespoons white sugar
 
-2 eggs
+* 2 eggs
 
-1 ½ cups warm milk
+* 1 ½ cups warm milk
 
-⅓ cup butter, melted
+* ⅓ cup butter, melted
 
-1 teaspoon vanilla extract
+* 1 teaspoon vanilla extract
+
